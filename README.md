@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReliefSync — Disaster Relief Intelligence System
 
 A full-stack disaster-relief coordination platform: manage disasters, volunteers, supplies, shelters and
@@ -271,3 +272,6 @@ The Windows launcher tries to start the included optional MongoDB service when D
 
 On first start with `DEMO_SEED_DATA=true`, ReliefSync imports the included 690-row dated global observation snapshot and creates clearly labeled synthetic training records for an incident, volunteers, assignments, shelters, inventory, and allocations so the dashboard has meaningful figures. These synthetic operations are not live response data. The demo seeder is idempotent and adds missing sample rows to an existing database.
 
+=======
+# skill_lab_project
+>>>>>>> 563b2f9e6e9b279f66dd638cd3c6ba586c6aead3
